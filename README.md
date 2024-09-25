@@ -79,7 +79,7 @@ Logistic Regression for classification and diagnosis
 
 - Medical Question Answering:
 
--- Uses TF-IDF for similarity scoring
+Uses TF-IDF for similarity scoring
 Searches medical articles using the PubMed API
 Implements BioBERT for keyword extraction and answer generation
 
