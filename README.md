@@ -46,6 +46,7 @@ Medical Inquiries
 ## Quality Attributes
 
 |Attribute	| Description |
+| -------------- | -------------- | 
 |Performance	 | Users receive a response within 2-3 seconds for a seamless experience.|
 |Security	| User data is protected through strong encryption and secure communication protocols.|
 |Maintainability	| The system is built with modular, well-documented code for easy updates and scalability.|
