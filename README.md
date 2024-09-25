@@ -56,19 +56,38 @@ Medical Inquiries
 
 
 
-| Column 1       | Column 2       | Column 3       |
-| -------------- | -------------- | -------------- |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+
+## implementation highlights
+
+
+1- Voice Tone Analysis:
+
+Uses LSTM and librosa for tone analysis
+Incorporates hubert-base-speech-emotion-recognition for emotion detection
+
+2- Mental Health & Emotional Support:
+
+Sentiment analysis through twitter-roberta-base-sentiment-latest
+Similarity detection with paraphrase-MiniLM-L6-v2
+DialoGPT for handling non-health related topics
+
+3- Symptom Diagnosis:
+
+spaCy for symptom tokenization and extraction
+Fuzzy Matching for symptom comparison
+Logistic Regression for classification and diagnosis
+
+4- Medical Question Answering:
+
+Uses TF-IDF for similarity scoring
+Searches medical articles using the PubMed API
+Implements BioBERT for keyword extraction and answer generation
 
 
 
+# Conclusion
 
-
-
-
-
-
+Hey Doc is a cutting-edge medical chatbot that provides reliable, fast, and secure healthcare assistance. By offering medical inquiries, emotional support, and diagnostic predictions, it has the potential to empower individuals to manage their health better and reduce their reliance on in-person visits. Built with machine learning and deep learning technologies, Hey Doc prioritizes security, performance, and medical accuracy, making it a promising tool for both patients and healthcare providers.
 
 
 
