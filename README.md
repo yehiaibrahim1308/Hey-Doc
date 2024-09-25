@@ -60,24 +60,24 @@ Medical Inquiries
 ## implementation highlights
 
 
-1- Voice Tone Analysis:
+- Voice Tone Analysis:
 
 Uses LSTM and librosa for tone analysis
 Incorporates hubert-base-speech-emotion-recognition for emotion detection
 
-2- Mental Health & Emotional Support:
+- Mental Health & Emotional Support:
 
 Sentiment analysis through twitter-roberta-base-sentiment-latest
 Similarity detection with paraphrase-MiniLM-L6-v2
 DialoGPT for handling non-health related topics
 
-3- Symptom Diagnosis:
+- Symptom Diagnosis:
 
 spaCy for symptom tokenization and extraction
 Fuzzy Matching for symptom comparison
 Logistic Regression for classification and diagnosis
 
-4- Medical Question Answering:
+- Medical Question Answering:
 
 Uses TF-IDF for similarity scoring
 Searches medical articles using the PubMed API
