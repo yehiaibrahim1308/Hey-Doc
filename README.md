@@ -85,6 +85,20 @@ Implements BioBERT for keyword extraction and answer generation
 
 
 
+
+# Video documentation of the project
+
+
+https://github.com/user-attachments/assets/131169da-6d88-4400-8769-205ea48d376f
+
+
+
+
+
+
+
+
+
 # Conclusion
 
 Hey Doc is a cutting-edge medical chatbot that provides reliable, fast, and secure healthcare assistance. By offering medical inquiries, emotional support, and diagnostic predictions, it has the potential to empower individuals to manage their health better and reduce their reliance on in-person visits. Built with machine learning and deep learning technologies, Hey Doc prioritizes security, performance, and medical accuracy, making it a promising tool for both patients and healthcare providers.
