@@ -15,7 +15,7 @@ Medical Inquiries
 
 
 ### Primary Technologies
-- Languages: Python
+- Languages: Python,HTML,CSS,JS.
 - DBMS: MongoDB
 ### Main Frameworks & Tools
 - Scikit-learn: Machine learning algorithms
