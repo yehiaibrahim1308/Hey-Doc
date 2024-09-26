@@ -88,16 +88,9 @@ Implements BioBERT for keyword extraction and answer generation
 
 # Video documentation of the project
 
+The voice in the video belongs to my project mate, Noor, because my microphone was broken 
 
-https://github.com/user-attachments/assets/131169da-6d88-4400-8769-205ea48d376f
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/4537b6d1-5dca-47b8-8e2f-470f90da0fe3
 
 # Conclusion
 
