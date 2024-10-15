@@ -1,7 +1,7 @@
 # Hey-Doc Medical Chatbot
 
 Hey Doc is a medical chatbot designed to provide constant medical assistance, reduce the need for unnecessary medical visits, and offer support for individuals with social anxiety. This platform integrates machine learning, deep learning, and various APIs to deliver secure mental health sessions, medical inquiries, emotional support, and diagnostic predictions.   
-
+ 
 # Project Details
 ## Aim 
 To develop a medical chatbot that acts as a permanent companion, easing the burden of medical visits and assisting people suffering from social anxiety.
