@@ -6,7 +6,7 @@ Hey Doc is a medical chatbot designed to provide constant medical assistance, re
 ## Aim   
 To develop a medical chatbot that acts as a permanent companion, easing the burden of medical visits and assisting people suffering from social anxiety.
 ## Objectives
-Secure Mental Sessions
+Secure Mental Sessions 
 Diagnosis
 Emotional Support 
 Medical Inquiries
