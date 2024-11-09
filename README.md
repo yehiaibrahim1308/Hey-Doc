@@ -8,7 +8,7 @@ To develop a medical chatbot that acts as a permanent companion, easing the burd
 ## Objectives
 Secure Mental Sessions
 Diagnosis
-Emotional Support
+Emotional Support 
 Medical Inquiries
 
 ## technologies and frameworks used:
