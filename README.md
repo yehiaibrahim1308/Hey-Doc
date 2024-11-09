@@ -54,7 +54,7 @@ Medical Inquiries
 |Usability	| The intuitive interface and clear instructions make it easy for users to interact with Hey Doc.|
 
 
-
+ 
 
 
 ## implementation highlights
